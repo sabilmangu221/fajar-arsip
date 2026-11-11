@@ -1,0 +1,33 @@
+{
+  "name": "Fajar Arsip",
+  "badgeLabel": "FJR",
+  "signingKey": "23c10063b1946693a2121a9e57578a97aad294699810f0b6567ad6562d3feefd",
+  "contact": {
+    "website": "https://github.com/sabilmangu221/fajar-arsip"
+  },
+  "extensionList": {
+    "extensions": [
+      {
+        "name": "Fajar",
+        "packageName": "eu.kanade.tachiyomi.extension.id.fajar",
+        "resources": {
+          "apkUrl": "https://github.com/sabilmangu221/fajar-arsip/releases/download/ext-v106001/tachiyomi-id.fajar-v1.6.1.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/sabilmangu221/fajar-arsip@main/src/id/fajar/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/sabilmangu221/fajar-arsip/releases/download/ext-v106001/tachiyomi-id.fajar-v1.6.1.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "106001",
+        "versionName": "1.6.1",
+        "contentWarning": "CONTENT_WARNING_NSFW",
+        "sources": [
+          {
+            "id": "3386477728348557610",
+            "name": "Fajar",
+            "language": "id",
+            "homeUrl": "https://beta.mwland.my"
+          }
+        ]
+      }
+    ]
+  }
+}
