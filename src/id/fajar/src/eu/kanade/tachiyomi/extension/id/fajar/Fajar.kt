@@ -228,7 +228,7 @@ abstract class Fajar :
                             ?.text()
                             ?.trim()
                             .orEmpty()
-                    )
+                        )
                 }
             author = info["Cerita oleh"].orEmpty()
             status =
